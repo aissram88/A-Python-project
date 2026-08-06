@@ -22,7 +22,9 @@ If you guess correctly, you win!
 - Python
 
 ## Objective
-
+- Practice handling an external file using a list
+- Utilize `if`, `elif`, and `else` conditionals to manage user input
+- Handle invalid user input (e.g., when a user inputs a number instead of letters)
 
 ## Author
 **Ai Sugita**
